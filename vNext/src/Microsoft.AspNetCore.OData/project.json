@@ -1,13 +1,13 @@
 {
-  "version": "6.0.0-alpha1-rtm",
+  "version": "6.0.0-alpha1-rtm-prodoc-*",
   "description": "Microsoft.AspNetCore.OData",
 
     "dependencies": {
         "Microsoft.AspNetCore.Mvc": "1.0.1",
         "Microsoft.AspNetCore.Mvc.WebApiCompatShim": "1.0.1",
-        "Microsoft.OData.Core": "6.15.0",
-        "Microsoft.OData.Edm": "6.15.0",
-        "Microsoft.Spatial": "6.15.0"
+        "Microsoft.OData.Core": "6.15",
+        "Microsoft.OData.Edm": "6.15",
+        "Microsoft.Spatial": "6.15"
     },
 
   "frameworks": {
