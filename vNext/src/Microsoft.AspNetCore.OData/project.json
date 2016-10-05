@@ -1,5 +1,5 @@
 {
-  "version": "6.0.0-alpha1-rtm-prodoc-*",
+  "version": "6.0.0-prodoc1-*",
   "description": "Microsoft.AspNetCore.OData",
 
     "dependencies": {
@@ -7,7 +7,7 @@
         "Microsoft.AspNetCore.Mvc.WebApiCompatShim": "1.0.1",
         "Microsoft.OData.Core": "6.15",
         "Microsoft.OData.Edm": "6.15",
-        "Microsoft.Spatial": "6.15"
+        "Microsoft.Spatial": "6.14"
     },
 
   "frameworks": {
