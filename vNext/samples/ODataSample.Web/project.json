@@ -1,13 +1,13 @@
 {
     "dependencies": {
-        "Microsoft.AspNetCore.Mvc": "1.1.0-alpha1-22299",
+        "Microsoft.AspNetCore.Mvc": "1.1.0-preview2-22484",
         "Microsoft.AspNetCore.OData": {
             "target": "project"
         },
-        "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0-alpha1-22299",
-        "Microsoft.AspNetCore.Server.Kestrel": "1.1.0-alpha1-22299",
-        "Microsoft.Extensions.Logging": "1.1.0-alpha1-22299",
-        "Microsoft.Extensions.Logging.Console": "1.1.0-alpha1-22299"  },
+        "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0-preview2-22484",
+        "Microsoft.AspNetCore.Server.Kestrel": "1.1.0-preview2-22484",
+        "Microsoft.Extensions.Logging": "1.1.0-preview2-22484",
+        "Microsoft.Extensions.Logging.Console": "1.1.0-preview2-22484"  },
 
     "tools": {
     },
